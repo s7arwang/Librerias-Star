@@ -1,0 +1,33 @@
+-CORS — "Los permisos"
+Imagínate que tienes una tienda y solo quieres venderle a gente de ciertos lugares, por ejemplo, solo a gente que viene de tu colonia.
+CORS es como el letrero en la puerta que dice:
+"Solo atendemos a personas de la colonia X".
+O si quieres, puedes quitar el letrero y decir:
+"Atendemos a todos".
+
+Así decides quién puede pedirte cosas desde otras páginas o aplicaciones.
+
+-Express — "Tu ayudante rápido"
+Hacer que una computadora reciba mensajes (como peticiones de un cliente) es complicado.
+Express es como tener un ayudante que ya sabe lo que tiene que hacer y entiende rápido.
+Tú le dices:
+
+"Si alguien me pregunta algo en la dirección principal, respóndele 'Hola'".
+
+"Si alguien quiere ver los productos, muéstrale la lista".
+
+Express hace que poner tu negocio (servidor) funcione sin tener que armar todo desde cero.
+
+-Mongoose — "Tu cuaderno de registros"
+Si tienes una libreta donde apuntas los nombres de tus clientes y sus pedidos, eso es tu base de datos.
+Mongoose es como un cuaderno bien ordenado, con casillas que te dicen:
+Aquí va el nombre.
+Aquí va el número de teléfono.
+Aquí va el pedido.
+
+Te ayuda a que todo esté en orden y sea fácil de buscar, borrar o modificar.
+
+-Dotenv — "El papel escondido con tus claves"
+A veces, tienes que guardar claves o información secreta, como la contraseña del WiFi o una llave de un candado.
+No quieres que esa información esté pegada en la pared donde todos la ven.
+Dotenv es como guardar ese papel con las claves en un cajón escondido, pero tu negocio (tu programa) puede abrir el cajón y usar esa información cuando la necesita, sin que los demás la vean.
